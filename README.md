@@ -20,7 +20,7 @@ The dataset is collected from Kaggle Platform https://www.kaggle.com/c/titanic/d
 
 ---
 
-![Titanic EDA Report - Image](https://user-images.githubusercontent.com/86600232/132553414-dda73fe1-834c-4df3-bb4c-7b98c5f0161c.png)
+![Titanic EDA Report - Image](https://user-images.githubusercontent.com/86600232/139247263-a99d506b-0102-4193-83d7-e105def7a195.png)
 
 
 This repo contains several EDA, Data Pre-Processing, Feature Engineering, Model Selection and Final Model Building Procedures for the ML beginner's Classical Titanic Problem
